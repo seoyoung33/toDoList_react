@@ -1,0 +1,10 @@
+main {
+    background-color:#fff;
+    display:flex; flex-flow:row nowrap; justify-content:space-between;
+    padding:10px;
+    border:1px solid #aaa;
+    border-radius:5px;
+    margin:20px 0;
+}
+main input {font-size:0.875rem;}
+main button {color:#555;}
